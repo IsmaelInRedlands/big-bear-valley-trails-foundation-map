@@ -1,0 +1,18 @@
+{
+  "kind": "arcgis-nova-deployable-app",
+  "version": "0.1",
+  "generatedAt": "2026-10-30T05:59:03.516Z",
+  "title": "Big Bear Valley Trails Foundation Map",
+  "authMode": "oauth",
+  "entry": "index.html",
+  "sourceAppPath": "outputs/apps/2026-10-30T05-22-16-6a998fe7-a4ae-4777-8e94-228ee821f970/index.html",
+  "files": {
+    "app": "app.json",
+    "map": "map.json",
+    "runtime": "app.js",
+    "auth": "standalone-auth.js"
+  },
+  "portalUrl": "https://www.arcgis.com",
+  "appId": "jpRIo2gQyd1frLXC",
+  "deploymentUrl": "https://ismaelinredlands.github.io/big-bear-valley-trails-foundation-map/"
+}
